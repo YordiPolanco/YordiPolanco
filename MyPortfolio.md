@@ -9,7 +9,7 @@ In a world increasingly shaped by data, I'm excited to help organizations make s
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics.
 
-My CV in [pdf]([https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf](https://github.com/YordiPolanco/YordiPolanco/blob/7804e7c35e1e4df9c08575c0986d43a67446e32e/Yordi%20Polanco%20%20-%20CV.pdf)).
+My CV in [pdf](https://github.com/YordiPolanco/YordiPolanco/blob/7804e7c35e1e4df9c08575c0986d43a67446e32e/Yordi%20Polanco%20%20-%20CV.pdf).
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
