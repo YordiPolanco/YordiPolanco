@@ -7,9 +7,9 @@ What sets me apart is my ability to go beyond the numbers—transforming complex
 
 In a world increasingly shaped by data, I'm excited to help organizations make smarter decisions by uncovering the patterns that matter most. This portfolio showcases projects where I’ve cleaned, analyzed, and visualized data to solve real-world problems, always with the end user in mind.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+This is a repository to showcase skills, share projects and track my progress in Data Analytics.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
