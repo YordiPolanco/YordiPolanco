@@ -1,8 +1,7 @@
 # Yordi Polanco - Data Analyst Portfolio
 ## About
-Hi, I'm Yordi Polanco! I'm currently pursuing a degree in Computer Technology Engineering and I have an analytical ba
 
-I'm a Computer Technology Engineering student with a strong passion for data and a growing portfolio of self-driven projects across industries like education and sales. Although my major isn't directly focused on data analysis, I've built a solid foundation in Python and statistics, and I've complemented that with hands-on experience using Excel, SQL, and Tableau.
+Hi, I'm Yordi! I'm a Computer Technology Engineering student with a strong passion for data and a growing portfolio of self-driven projects across industries like education and sales. Although my major isn't directly focused on data analysis, I've built a solid foundation in Python and statistics, and I've complemented that with hands-on experience using Excel, SQL, and Tableau.
 
 What sets me apart is my ability to go beyond the numbers—transforming complex datasets into clear, compelling insights that stakeholders can act on. I thrive at the intersection of analysis and creativity, combining technical skills with thoughtful storytelling to ensure every insight has impact.
 
