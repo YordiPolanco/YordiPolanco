@@ -1,10 +1,12 @@
 # Yordi Polanco - Data Analyst Portfolio
 ## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hi, I'm Yordi Polanco! I'm currently pursuing a degree in Computer Technology Engineering and I have an analytical ba
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+I'm a Computer Technology Engineering student with a strong passion for data and a growing portfolio of self-driven projects across industries like education and sales. Although my major isn't directly focused on data analysis, I've built a solid foundation in Python and statistics, and I've complemented that with hands-on experience using Excel, SQL, and Tableau.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+What sets me apart is my ability to go beyond the numbers—transforming complex datasets into clear, compelling insights that stakeholders can act on. I thrive at the intersection of analysis and creativity, combining technical skills with thoughtful storytelling to ensure every insight has impact.
+
+In a world increasingly shaped by data, I'm excited to help organizations make smarter decisions by uncovering the patterns that matter most. This portfolio showcases projects where I’ve cleaned, analyzed, and visualized data to solve real-world problems, always with the end user in mind.
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
